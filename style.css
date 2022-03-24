@@ -1,0 +1,52 @@
+.grid{
+    border: solid;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align:center;
+    align-items: center;
+}
+
+.grid img{
+    border: 10px solid;
+}
+
+b{
+    border:solid;
+}
+
+head{
+    border: red solid;
+}
+
+.dragon{
+    border: solid;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align:center;
+    align-items: center;
+}
+
+.dragon img{
+    border: 10px solid;
+}
+
+.lucifer img{
+    border: 10px solid;
+}
+
+
+br{
+    border:solid;
+    padding-block: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+    border:solid;
+    padding-block: 20px;
+    font-weight:900;
+}
